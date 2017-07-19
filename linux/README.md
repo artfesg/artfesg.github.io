@@ -5,8 +5,7 @@
     <!--
       Fonte: https://en.wikipedia.org/wiki/Linux
     -->    
-    
-<h1><a href="https://artfesg.github.io/linux">Linux para Brasileiros</h1>        
+
 <h3>Arquitetura</h3>
           <p>As arquiteturas às quais se dirigem estas instruções são as CPUs AMD/Intel x86 (32-bits) e x86_64 (64-bits). Por outro lado, essas mesmas instruções podem servir para CPUs PowerPC e ARM, com algumas modificações. para construir um sitema que utilize uma dessas CPUs, o principal prerrequisito, além de alguns outros, é um sistema Linux preexistente como Ubuntu, Red Hat, Fedora ou qualquer outra distribuição portada para a arquitetura que você deseja. Porém, saiba que uma distribuição de 32 bits pode ser instalada e usada como sistema anfitrão num computador AMD/Intel de 64 bits.</p>
           <p>Inicialmente, uma construão de 64 bits resulta em um sistema de 64 bits "puro". Ou seja, suporta apenas arquivos executáveis de 64 bits. Construindo um sistema "multi-lib" exige que muitos aplicativos sejam compilados duas vezes: uma vez para 32 bits e outra vez para 64 bits.</p>
