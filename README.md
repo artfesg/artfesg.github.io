@@ -10,4 +10,4 @@ w3schools [base teórica(html+css+js)]
 --
 MDN
 --
-coursera/udemy/outros
+saiyajin
