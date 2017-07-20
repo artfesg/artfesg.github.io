@@ -4,6 +4,8 @@ codecademy
 --
 khanacademy
 --
-coursera
+w3schools
 --
 MDN
+--
+coursera/udemy
