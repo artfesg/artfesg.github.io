@@ -1,6 +1,5 @@
 # artfesg.github.io
 
-==
 codecademy
 --
 khanacademy
