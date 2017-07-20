@@ -1,11 +1,13 @@
 # artfesg.github.io
 
-codecademy
+codecademy (html+css v1)
 --
-khanacademy
+khanacademy (html + css + js)
 --
-w3schools
+codecademy (html+css v2 + js + web)
+--
+w3schools (base teórica)
 --
 MDN
 --
-coursera/udemy
+coursera/udemy/outros
