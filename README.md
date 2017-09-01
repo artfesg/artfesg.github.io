@@ -1,6 +1,6 @@
 # artfesg.github.io
 
-C
-C++
-Java
-JavaScript
+C  
+C++  
+Java  
+JavaScript  
